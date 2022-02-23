@@ -1,0 +1,49 @@
+* {
+    font-family: -apple-system, sans-serif;
+}
+
+body {
+    font-weight: 400;
+    font-size: 1em;
+    line-height: 1.6;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+p {
+    font-size: 17px;
+}
+
+picture {
+    border: 1px solid #000;
+    width: 600px;
+}
+
+.btn {
+    display: block;
+    background: #0071e3;
+    color: #ffffff;
+    font-size: 17px;
+    padding: 8px 16px;
+    min-width: 28px;
+    border-radius: 8px;
+    width: auto;
+    border: none;
+}
+
+.btn:hover {
+    background: #0077ED;
+}
+
+input[type=file] {
+    margin: 1em 0;
+    font-size: initial;
+}
+
+.error {
+    color: darkred;
+}
+
