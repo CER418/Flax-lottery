@@ -38,7 +38,7 @@ def check_numbers(lst):
 
 
 @app.route("/", methods=['GET', 'POST'])
-def upload_file():
+def main():
     if request.method == 'POST':
         if 'file' not in request.files:
             return render_template("index.html", error='No file part.')
