@@ -1,5 +1,8 @@
 __pycache__
 venv
+Procfile
+runtime.txt
 .git
 .idea
+.env
 .DS_Store
