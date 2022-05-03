@@ -1,4 +1,4 @@
-# Foobar
+# Flax
 An application that uses optical character recognition to analyse lottery tickets. Flax is a variant of the norwegian word *flaks*, which translates to luck.
 
 ## Usage
